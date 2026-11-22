@@ -7,7 +7,6 @@ const eslintConfig = [
       globals: {
         require: "readonly",
         module: "readonly",
-        console: "readonly",
         describe: "readonly",
         test: "readonly",
         expect: "readonly"
